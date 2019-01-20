@@ -128,7 +128,7 @@ func main() {
 	var output string
 	flag.StringVar(&output, "output", "", "Name of output file")
 	var password string
-	flag.StringVar(&output, "password", "", "Password to use for encryption/decryption")
+	flag.StringVar(&password, "password", "", "Password to use for encryption/decryption")
 	flag.Parse()
 
 	fmt.Println(operation)
