@@ -1,4 +1,4 @@
-# GOCRYPTER
+# GOCRYPT
 
 - Encrypt and Decrypt files using AES.
 - New file is created during the encryption and the .crypt file extension is appended.
